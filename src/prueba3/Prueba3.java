@@ -87,7 +87,6 @@ public class Prueba3 {
                     conect.close();
                 }
             }
-
         } catch (Exception e) {
             System.out.println(e);
         }
