@@ -87,11 +87,6 @@ public class Prueba3 {
                     conect.close();
                 }
             }
-<<<<<<< HEAD
-            //
-
-=======
->>>>>>> ivan
         } catch (Exception e) {
             System.out.println(e);
         }
